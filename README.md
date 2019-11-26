@@ -1,0 +1,2 @@
+# koding
+lære å kode
